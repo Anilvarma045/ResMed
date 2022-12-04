@@ -2,9 +2,6 @@
 Library  Selenium2Library
 #Resource  ../ResMedResources/ResMedResource.robot
 
-*** Variables ***
-${viststore_button_xpath}    "(//div[@class='product-bottom-wrapper']//following::a)[1]"
-${popup_button_xpath}       "//button[@class='leadinModal-close']"
 
 
 
